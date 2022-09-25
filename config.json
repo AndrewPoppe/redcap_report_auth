@@ -1,0 +1,20 @@
+{
+    "name": "Report Auth",
+    "namespace": "YaleREDCap\\ReportAuth",
+    "description": "TEMP",
+    "permissions": ["redcap_every_page_top"],
+    "authors": [{
+        "name": "Andrew Poppe",
+        "email": "andrew.poppe@yale.edu",
+        "institution": "Yale Center for Clinical Investigation"
+    }],
+    "project-settings": [],
+    "no-auth-pages": [],
+    "framework-version": 9,
+    "compatibility": {
+        "php-version-min": "7.3.27",
+        "php-version-max": "7.99.99",
+        "redcap-version-min": "10.0.28",
+        "redcap-version-max": ""
+    }
+}
